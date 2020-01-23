@@ -11,4 +11,4 @@ All initial structures are taken from the [[http://www.iza-structure.org/databas
 All structures are optimized using the Vienna /ab-initio/ Simulation Package (VASP). An example INCAR is available to clarrify inputs used for each simulation. Supercell shape and size are allowed to change, and the calculations continue until the energy change between iterations is less than 1E-6 eV. 
 
 * Future 
-More zeolite structures will regularly be added. It is possible that different functionals will used if there is a demand. 
+More zeolite structures will regularly be added. It is possible that different functionals will be used if there is a demand. 
