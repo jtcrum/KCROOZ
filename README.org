@@ -8,7 +8,7 @@ The purpose of this repository is to provide zeolite structures with optimized l
 All initial structures are taken from the [[http://www.iza-structure.org/databases/][IZA Database of Zeolite Structures]]. 
 
 * Optimization
-All structures are optimized using the Vienna \italics{ab-initio} Simulation Package (VASP). An example INCAR is available to clarrify inputs used for each simulation. Supercell shape and size are allowed to change, and the calculations continue until the energy change between iterations is less than 1E-6 eV. 
+All structures are optimized using the Vienna \textit{ab-initio} Simulation Package (VASP). An example INCAR is available to clarrify inputs used for each simulation. Supercell shape and size are allowed to change, and the calculations continue until the energy change between iterations is less than 1E-6 eV. 
 
 * Future 
 More zeolite structures will regularly be added. It is possible that different functionals will used if there is a demand. 
