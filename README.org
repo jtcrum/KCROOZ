@@ -1,5 +1,5 @@
 * KCROOZ
-Koninckx Crum Repository Of Optimized Zeolite lattice constants using the PBE functional. 
+Pronounced cruise. Koninckx Crum Repository Of Optimized Zeolite lattice constants using the PBE functional. 
 
 * Purpose
 The purpose of this repository is to provide zeolite structures with optimized lattice constants found using a uniform method. The first step in any computational zeoltie research is to optimize the lattice constants for the structure. We hope to save time for other researchers who intend to use these zeolite structures by removing that first step. 
